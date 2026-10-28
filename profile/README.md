@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/CeyFiApp/.github/main/profile/ceyfi-icon-512.png" width="80" alt="CeyFi logo">
+
 # CeyFi App
 
 Financial management for people and businesses in Sri Lanka.
